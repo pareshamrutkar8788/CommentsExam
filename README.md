@@ -1,2 +1,0 @@
-# CommentsExam
-Interview
